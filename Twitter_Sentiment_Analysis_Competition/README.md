@@ -1,4 +1,4 @@
-# Project1-Twitter-Sentiment-Analysis-Word2Vec-
+# Project Name - Twitter-Sentiment-Analysis-Word2Vec-
 
 # Creator: Piyush Kumar
 # Date: 20-JAN-2020
