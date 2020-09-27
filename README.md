@@ -1,2 +1,2 @@
 # Projects
-All Data Science projects completed by me
+All Data Science projects completed by Piyush Kumar
