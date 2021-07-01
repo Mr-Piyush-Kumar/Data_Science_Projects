@@ -1,4 +1,4 @@
-This is not a freelancing project. I did this project as part of my data science certification course. In this project I have analyzed which restaurant serve best biryani within 5 KM range from user's location. Have a look on notebook to see whole analysis from data extrcation to finding best Biryani serving restaurant.   
+This is not a freelancing project. I did this project as part of my data science certification course. In this project I have analyzed which restaurant serves best biryani within 5 KM range from user's location. Have a look on notebook to see whole analysis from data extrcation to finding best Biryani serving restaurant.   
     
 <img src="https://github.com/Mr-Piyush-Kumar/Mr-Piyush-Kumar/blob/master/biryani.jpg"></img>   
    
