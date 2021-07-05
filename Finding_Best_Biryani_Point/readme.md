@@ -1,4 +1,4 @@
-This is not a freelancing project. I did this project as part of my data science certification course.  
+This is not a freelancing project. I did this project as part of my Data Science certification course.  
 
 ## Project Name:- Finding Best Biryani Point Near a Location in Hyderabad City
 
