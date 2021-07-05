@@ -9,7 +9,7 @@ https://www.kaggle.com/c/ieee-fraud-detection/overview
      
 <img src="https://github.com/Mr-Piyush-Kumar/Mr-Piyush-Kumar/blob/master/credit_card_fraud_img.jpg"></img>     
 
-In this Machine Learning problem, I have used CatBoost Classifier to train my model.
+In this Machine Learning problem, I have used CatBoost Classifier algorithm to train my model.
 
 Code File Name(Jupyter NoteBook) : "ieee-piyush.ipynb"
 
