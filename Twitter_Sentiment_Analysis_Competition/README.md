@@ -1,6 +1,6 @@
 This is not a freelancing project. I did this project to showcase in my portfolio.
 
-# Project Name - Twitter-Sentiment-Analysis-Word2Vec-
+# Project Name - Twitter Sentiment Analysis
 
 # Creator: Piyush Kumar
 # Date: 20-JAN-2020
