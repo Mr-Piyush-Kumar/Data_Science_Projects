@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/23153405/124519977-a7b9ac00-de08-11eb-
 
 1. imos.xlsx (List of IMO numbers for input).
 2. ship_data.xlsx (Extracted data from websites).
-3. imo_search_script.ipynb (script to search imo numbers in websites and extract ships data).
+3. imo_search_script.ipynb (script to search imo numbers in websites and extract ships data automatically).
