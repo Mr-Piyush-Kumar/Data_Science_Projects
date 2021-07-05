@@ -1,9 +1,9 @@
 This is not a freelancing project. I did this project to showcase in my portfolio.   
    
-# Project Name - IEEE CIS Fraud Detection
+## Project Name - IEEE CIS Fraud Detection
 
-# Creator - Piyush Kumar
-# Date - 12/12/2019
+### Creator - Piyush Kumar
+### Date - 12/12/2019
 
 This project is the solution of a problem asked in a Kaggle competition Named "IEEE CIS Fraud Detection".
 You can read about the problem by click on below link, also you can download the dataset using same link.
