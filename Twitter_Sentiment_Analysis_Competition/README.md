@@ -1,4 +1,4 @@
-This is not freelancing project. I did this project to showcase in my portfolio.
+This is not a freelancing project. I did this project to showcase in my portfolio.
 
 # Project Name - Twitter-Sentiment-Analysis-Word2Vec-
 
