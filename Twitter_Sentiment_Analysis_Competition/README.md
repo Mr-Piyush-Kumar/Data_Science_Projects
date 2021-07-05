@@ -1,8 +1,8 @@
 This is not a freelancing project. I did this project to showcase in my portfolio.
 
-# Project Name - Twitter Sentiment Analysis
+# Project Name : Twitter Sentiment Analysis
 
-# Creator: Piyush Kumar
+# Completed By : Piyush Kumar
 # Date: 20-JAN-2020
 
 This project is the solution of a problem asked in a Hackathon Named "Twitter Sentiment Analysis".
