@@ -1,3 +1,5 @@
+This is not a freelancing project. I did this project to showcase in my portfolio.   
+   
 # Project Name - IEEE CIS Fraud Detection
 
 # Creator - Piyush Kumar
