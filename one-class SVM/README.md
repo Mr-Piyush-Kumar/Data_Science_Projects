@@ -31,6 +31,6 @@ a region with the desired property.**
 * Enjoy!   
    
 If there is problem in loading main notebook then click on below link to open the main notebook.   
-https://nbviewer.jupyter.org/github/Mr-Piyush-Kumar/Data_Science_Projects/blob/master/one-class%20SVM/One-Class-SVM-Novelty-Detection.ipynb#sec1
+https://nbviewer.jupyter.org/github/Mr-Piyush-Kumar/Data_Science_Projects/blob/master/one-class%20SVM/One-Class-SVM-Novelty-Detection.ipynb
 
 
