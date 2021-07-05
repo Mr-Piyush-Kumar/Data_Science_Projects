@@ -1,3 +1,5 @@
+This is not freelancing project. I did this project to showcase in my portfolio.
+
 # Project Name - Twitter-Sentiment-Analysis-Word2Vec-
 
 # Creator: Piyush Kumar
