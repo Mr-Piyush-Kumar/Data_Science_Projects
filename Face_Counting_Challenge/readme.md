@@ -1,3 +1,7 @@
+## Project Name:- Human Face Detection and Counting
+
+### Completed By:- Piyush Kumar
+
 In this project client wanted me to help him in creating a deep learning model which able to detect and count human faces in an image. I used Yolov3 algorithm in this project. Please have a look on the notebook to all steps in detail.
 
 <img src="https://github.com/Mr-Piyush-Kumar/Mr-Piyush-Kumar/blob/master/face_counting.png"></img>  
