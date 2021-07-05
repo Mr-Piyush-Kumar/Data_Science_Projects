@@ -14,3 +14,7 @@ In this Machine Learning problem, I have used CatBoost Classifier algorithm to t
 Code File Name(Jupyter NoteBook) : "ieee-piyush.ipynb"
 
 Leader Board Score : Private - 0.900804, Public - 0.935055
+
+Have a look on notebook to see all steps from data extrcation to data preprocessing to feature engineering to model training and testing.
+If there is problem in loading notebook then click on below link to open the notebook.   
+https://nbviewer.jupyter.org/github/Mr-Piyush-Kumar/Data_Science_Projects/blob/3ad7d19850ca76e6eca3b80e67f20fbf24e2c643/IEEE_CIS_Credit_Card_Fraud_Detection/ieee-piyush.ipynb
