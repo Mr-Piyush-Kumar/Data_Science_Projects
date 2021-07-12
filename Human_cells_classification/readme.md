@@ -11,4 +11,4 @@ The task was to build three deep learninig models using FastAi and Python for im
 Please have a look on the notebook to see all steps taken by me to complete this project.  
     
 If there is problem in loading in notebook then click on the below link to open the notebook.  
-https://nbviewer.jupyter.org/github/Mr-Piyush-Kumar/Data_Science_Projects/blob/master/Human_cells_classification/hpa-approach-notebook.ipynbv  
+https://nbviewer.jupyter.org/github/Mr-Piyush-Kumar/Data_Science_Projects/blob/master/Human_cells_classification/hpa-approach-notebook.ipynb   
